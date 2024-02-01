@@ -1,0 +1,238 @@
+{
+  "localStorageItems": [],
+  "sessionStorageItems": [],
+  "cookies": [
+    {
+      "domain": "www.bepimmo.com",
+      "expirationDate": 1714559964,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "BXID",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "8a6916a0-6080-4dca-a194-a057d28e5536",
+      "expires": 1714559964,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.bepimmo.com",
+        "type": "network",
+        "stack": [
+          "https://www.bepimmo.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "www.bepimmo.com",
+      "expirationDate": 1722335971,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "_bxreit_n",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1722335971,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.bepimmo.com",
+        "type": "network",
+        "stack": [
+          "https://www.bepimmo.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "www.bepimmo.com",
+      "expirationDate": 1722335971,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "_bxreit_n_investor",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "investisseur-professionnel",
+      "expires": 1722335971,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.bepimmo.com",
+        "type": "network",
+        "stack": [
+          "https://www.bepimmo.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".bepimmo.com",
+      "expirationDate": 1741293971.515299,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_ga",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.48113281.1706200568",
+      "expires": 1741293971.515299,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.bepimmo.com",
+        "type": "network",
+        "stack": [
+          "https://www.bepimmo.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".bepimmo.com",
+      "expirationDate": 1706906547,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gid",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.366997728.1706733964",
+      "expires": 1706906547,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.bepimmo.com",
+        "type": "network",
+        "stack": [
+          "https://www.bepimmo.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    }, 
+    {
+      "domain": ".bepimmo.com",
+      "expirationDate": 1706906547,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gat_UA-*",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1706906547,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bepimmo.com",
+        "type": "network",
+        "stack": [
+          "https://bepimmo.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    },
+    {
+      "domain": ".bepimmo.com",
+      "expirationDate": 1721935492,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consent_uuid",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "4c726661-4547-4ef2-936a-4ea3957f66b9:17",
+      "expires": 1721935492,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bepimmo.com",
+        "type": "network",
+        "stack": [
+          "https://bepimmo.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".bepimmo.com",
+      "expirationDate": 1722335971,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_latest_published_version",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1722335971,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bepimmo.com",
+        "type": "network",
+        "stack": [
+          "https://bepimmo.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".bepimmo.com",
+      "expirationDate": 1721935492,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consent_generated",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "4c726661-4547-4ef2-936a-4ea3957f66b9:17",
+      "expires": 1721935492,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bepimmo.com",
+        "type": "network",
+        "stack": [
+          "https://bepimmo.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".bepimmo.com",
+      "expirationDate": 1721935492,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consents",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "{\"consents\":{\"127\":1,\"128\":1},\"location\":\"FL#US\",\"lang\":\"en\",\"gpcInBrowserOnConsent\":false,\"gpcStatusInPortalOnConsent\":false,\"status\":\"record-consent-success\",\"implicit_consent\":false,\"suppressNonEssentials\":false}",
+      "expires": 1721935492,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bepimmo.com",
+        "type": "network",
+        "stack": [
+          "https://bepimmo.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    }
+  ],
+  "scanStartTime": 1706784056829,
+  "scanEndTime": 1706784078103
+}

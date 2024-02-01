@@ -1,0 +1,215 @@
+{
+  "localStorageItems": [],
+  "sessionStorageItems": [],
+  "cookies": [
+    {
+      "domain": ".blackstone.com",
+      "expirationDate": 1741120163.731478,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_ga",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.1614079100.1706560163",
+      "expires": 1741120163.731478,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxmix.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxmix.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    },
+    {
+      "domain": ".blackstone.com",
+      "expirationDate": 1706659199,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gid",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.1236614167.1706560163",
+      "expires": 1706659199,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxmix.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxmix.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    },
+    {
+      "domain": "bxmix.blackstone.com",
+      "expirationDate": 1722165694,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "_bxreit_n",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1722165694,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxmix.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxmix.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxmix.blackstone.com",
+      "expirationDate": 1714409747,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "BXID",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "7671ef1a-0b96-4e7f-82f8-69b5d9a39b90",
+      "expires": 1714409747,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxmix.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxmix.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxmix.blackstone.com",
+      "expirationDate": 1721830906,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consent_uuid",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "d9017947-0f14-49da-9dfd-77a92f8da5d2:22",
+      "expires": 1721830906,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxmix.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxmix.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxmix.blackstone.com",
+      "expirationDate": 1721830906,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consent_generated",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "d9017947-0f14-49da-9dfd-77a92f8da5d2:22",
+      "expires": 1721830906,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxmix.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxmix.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxmix.blackstone.com",
+      "expirationDate": 1721830906,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consents",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "{\"consents\":{\"121\":1,\"122\":1},\"location\":\"FL#US\",\"lang\":\"en\",\"gpcInBrowserOnConsent\":false,\"gpcStatusInPortalOnConsent\":false,\"status\":\"record-consent-success\",\"implicit_consent\":false}",
+      "expires": 1721830906,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxmix.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxmix.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxmix.blackstone.com",
+      "expirationDate": 1722165694,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_latest_published_version",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1722165694,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxmix.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxmix.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".blackstone.com",
+      "expirationDate": 1706659199,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gat_UA-*",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1706659199,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxmix.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxmix.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    }
+  ],
+  "scanStartTime": 1706562430655,
+  "scanEndTime": 1706562455390
+}

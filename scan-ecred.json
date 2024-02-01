@@ -1,0 +1,261 @@
+{
+  "localStorageItems": [],
+  "sessionStorageItems": [],
+  "cookies": [
+    {
+      "domain": "www.ecred.com",
+      "expirationDate": 1714523790,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "BXID",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "f97e8573-42ff-45fa-bd8a-c0994beab8e6",
+      "expires": 1714523790,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.ecred.com",
+        "type": "network",
+        "stack": [
+          "https://www.ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "www.ecred.com",
+      "expirationDate": 1722322147,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "_bxreit_n",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1722322147,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.ecred.com",
+        "type": "network",
+        "stack": [
+          "https://www.ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "www.ecred.com",
+      "expirationDate": 1722322147,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "_bxreit_n_investor",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "{%22investor%22:%22professional-investor%22%2C%22country%22:%22greece%22}",
+      "expires": 1722322147,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.ecred.com",
+        "type": "network",
+        "stack": [
+          "https://www.ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "www.ecred.com",
+      "expirationDate": 1721678207,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consent_uuid",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "8aa672a2-e623-4325-b573-86d8c64d3549:12",
+      "expires": 1721678207,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.ecred.com",
+        "type": "network",
+        "stack": [
+          "https://www.ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "www.ecred.com",
+      "expirationDate": 1721678207,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consent_generated",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "8aa672a2-e623-4325-b573-86d8c64d3549:12",
+      "expires": 1721678207,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.ecred.com",
+        "type": "network",
+        "stack": [
+          "https://www.ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "www.ecred.com",
+      "expirationDate": 1721678207,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consents",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "{\"consents\":{\"265\":1,\"266\":1},\"location\":\"FL#US\",\"lang\":\"en\",\"gpcInBrowserOnConsent\":false,\"gpcStatusInPortalOnConsent\":false,\"status\":\"record-consent-success\",\"implicit_consent\":false,\"suppressNonEssentials\":false}",
+      "expires": 1721678207,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.ecred.com",
+        "type": "network",
+        "stack": [
+          "https://www.ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "www.ecred.com",
+      "expirationDate": 1722322147,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_latest_published_version",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1722322147,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.ecred.com",
+        "type": "network",
+        "stack": [
+          "https://www.ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "www.ecred.com",
+      "expirationDate": 1738342547,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "pll_language",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "en",
+      "expires": 1738342547,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.ecred.com",
+        "type": "network",
+        "stack": [
+          "https://www.ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".ecred.com",
+      "expirationDate": 1741207790.082828,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_ga",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.1536737766.1705507252",
+      "expires": 1741207790.082828,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.ecred.com",
+        "type": "network",
+        "stack": [
+          "https://www.ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".ecred.com",
+      "expirationDate": 1706834190,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gat_UA-*",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1706834190,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://ecred.com",
+        "type": "network",
+        "stack": [
+          "https://ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    },
+    {
+      "domain": ".ecred.com",
+      "expirationDate": 1706834190,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gid",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.697809242.1706647772",
+      "expires": 1706834190,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://www.ecred.com",
+        "type": "network",
+        "stack": [
+          "https://www.ecred.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    }
+  ],
+  "scanStartTime": 1706777551174,
+  "scanEndTime": 1706777551174
+}

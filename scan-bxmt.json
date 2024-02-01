@@ -1,0 +1,215 @@
+{
+  "localStorageItems": [],
+  "sessionStorageItems": [],
+  "cookies": [
+  {
+      "domain": "www.blackstonemortgagetrust.com",
+      "expirationDate": 1714064147,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "BXID",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "b7b2cc5b-add7-41a8-8fa1-2d29436e823a",
+      "expires": 1714064147,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://blackstonemortgagetrust.com",
+        "type": "network",
+        "stack": [
+          "https://blackstonemortgagetrust.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".blackstonemortgagetrust.com",
+      "expirationDate": 1721935492,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consent_uuid",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "4c726661-4547-4ef2-936a-4ea3957f66b9:17",
+      "expires": 1721935492,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://blackstonemortgagetrust.com",
+        "type": "network",
+        "stack": [
+          "https://blackstonemortgagetrust.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".blackstonemortgagetrust.com",
+      "expirationDate": 1721840147,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_latest_published_version",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1721840147,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://blackstonemortgagetrust.com",
+        "type": "network",
+        "stack": [
+          "https://blackstonemortgagetrust.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".blackstonemortgagetrust.com",
+      "expirationDate": 1721935492,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consent_generated",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "4c726661-4547-4ef2-936a-4ea3957f66b9:17",
+      "expires": 1721935492,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://blackstonemortgagetrust.com",
+        "type": "network",
+        "stack": [
+          "https://blackstonemortgagetrust.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".blackstonemortgagetrust.com",
+      "expirationDate": 1721935492,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consents",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "{\"consents\":{\"127\":1,\"128\":1},\"location\":\"FL#US\",\"lang\":\"en\",\"gpcInBrowserOnConsent\":false,\"gpcStatusInPortalOnConsent\":false,\"status\":\"record-consent-success\",\"implicit_consent\":false,\"suppressNonEssentials\":false}",
+      "expires": 1721935492,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://blackstonemortgagetrust.com",
+        "type": "network",
+        "stack": [
+          "https://blackstonemortgagetrust.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".blackstonemortgagetrust.com",
+      "expirationDate": 1706374547,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gid",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.415428923.1706287089",
+      "expires": 1706374547,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://blackstonemortgagetrust.com",
+        "type": "network",
+        "stack": [
+          "https://blackstonemortgagetrust.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    },
+    {
+      "domain": ".blackstonemortgagetrust.com",
+      "expirationDate": 1706374547,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gat_UA-*",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1706374547,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://blackstonemortgagetrust.com",
+        "type": "network",
+        "stack": [
+          "https://blackstonemortgagetrust.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    },
+    {
+      "domain": ".blackstonemortgagetrust.com",
+      "expirationDate": 1740761747,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_ga",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.1.1484076662.1706287089",
+      "expires": 1740761747,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://blackstonemortgagetrust.com",
+        "type": "network",
+        "stack": [
+          "https://blackstonemortgagetrust.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    },
+    {
+      "domain": ".blackstonemortgagetrust.com",
+      "expirationDate": 1740761747,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_ga_*",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GS1.1.1706285562.1.1.1706287109.0.0.0",
+      "expires": 1740761747,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://blackstonemortgagetrust.com",
+        "type": "network",
+        "stack": [
+          "https://blackstonemortgagetrust.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    }
+  ],
+  "scanStartTime": 1706285908000,
+  "scanEndTime": 1706285938000
+}

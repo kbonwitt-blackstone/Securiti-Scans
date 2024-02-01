@@ -1,0 +1,307 @@
+{
+  "localStorageItems": [
+    {
+      "name": "fl-storage",
+      "value": "[{\"name\":\"fundSets\",\"favourites\":[],\"comparison\":[],\"portfolioBuilder\":[]}]",
+      "type": "local_storage_item",
+      "domain": ".bxdms.blackstone.com",
+      "cookie_classification_type": "First Party"
+    }
+  ],
+  "sessionStorageItems": [
+    {
+      "name": "AI_sentBuffer",
+      "value": "[]",
+      "type": "session_storage_item",
+      "domain": ".bxdms.blackstone.com",
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "name": "AI_buffer",
+      "value": "[\"{\\\"time\\\":\\\"2024-01-31T17:19:33.564Z\\\",\\\"iKey\\\":\\\"0aaacbb5-5ede-4760-b1ab-8f9660e8ec84\\\",\\\"name\\\":\\\"Microsoft.ApplicationInsights.0aaacbb55ede4760b1ab8f9660e8ec84.RemoteDependency\\\",\\\"tags\\\":{\\\"ai.user.id\\\":\\\"lIjyCTyZ9+kmM4jldzVVYr\\\",\\\"ai.session.id\\\":\\\"djSV+T7QRMm3QDxekv02nr\\\",\\\"ai.device.id\\\":\\\"browser\\\",\\\"ai.device.type\\\":\\\"Browser\\\",\\\"ai.operation.name\\\":\\\"/\\\",\\\"ai.operation.id\\\":\\\"5bbb414e768346bd83cdc13ee7a987fa\\\",\\\"ai.internal.sdkVersion\\\":\\\"javascript:2.6.5\\\"},\\\"data\\\":{\\\"baseType\\\":\\\"RemoteDependencyData\\\",\\\"baseData\\\":{\\\"id\\\":\\\"|5bbb414e768346bd83cdc13ee7a987fa.c21fbc271d7c4e2b.\\\",\\\"ver\\\":2,\\\"name\\\":\\\"POST https://www.google-analytics.com/j/collect?v=1&_v=j101&a=2018895635&t=event&ni=0&_s=1&dl=https%3A%2F%2Fbxdms.blackstone.com%2F&ul=en-us&de=UTF-8&dt=BXDMS%20%7C%20Blackstone%20Diversified%20Multi-Strategy%20Fund&sd=24-bit&sr=1536x960&vp=750x833&je=0&ec=Page%20Engagement&ea=Expanded%20Content&el=Credit&_u=SACAAEABAAAAACAAI~&jid=1517793005&gjid=1733475805&cid=448695156.1706721513&tid=UA-28581351-1&_gid=1048870679.1706721514&_r=1&gtm=45He41t0n81MTGW78Sv9121848150&cd1=0aa517fd-d6b0-4874-8366-5045545a37d5&gcd=11l1l1l1l1&dma=0&z=1403287853\\\",\\\"resultCode\\\":\\\"200\\\",\\\"duration\\\":\\\"00:00:00.063\\\",\\\"success\\\":true,\\\"data\\\":\\\"POST https://www.google-analytics.com/j/collect?v=1&_v=j101&a=2018895635&t=event&ni=0&_s=1&dl=https%3A%2F%2Fbxdms.blackstone.com%2F&ul=en-us&de=UTF-8&dt=BXDMS%20%7C%20Blackstone%20Diversified%20Multi-Strategy%20Fund&sd=24-bit&sr=1536x960&vp=750x833&je=0&ec=Page%20Engagement&ea=Expanded%20Content&el=Credit&_u=SACAAEABAAAAACAAI~&jid=1517793005&gjid=1733475805&cid=448695156.1706721513&tid=UA-28581351-1&_gid=1048870679.1706721514&_r=1&gtm=45He41t0n81MTGW78Sv9121848150&cd1=0aa517fd-d6b0-4874-8366-5045545a37d5&gcd=11l1l1l1l1&dma=0&z=1403287853\\\",\\\"target\\\":\\\"www.google-analytics.com\\\",\\\"type\\\":\\\"Ajax\\\",\\\"properties\\\":{\\\"HttpMethod\\\":\\\"POST\\\"},\\\"measurements\\\":{}}}}\",\"{\\\"time\\\":\\\"2024-01-31T17:19:33.628Z\\\",\\\"iKey\\\":\\\"0aaacbb5-5ede-4760-b1ab-8f9660e8ec84\\\",\\\"name\\\":\\\"Microsoft.ApplicationInsights.0aaacbb55ede4760b1ab8f9660e8ec84.RemoteDependency\\\",\\\"tags\\\":{\\\"ai.user.id\\\":\\\"lIjyCTyZ9+kmM4jldzVVYr\\\",\\\"ai.session.id\\\":\\\"djSV+T7QRMm3QDxekv02nr\\\",\\\"ai.device.id\\\":\\\"browser\\\",\\\"ai.device.type\\\":\\\"Browser\\\",\\\"ai.operation.name\\\":\\\"/\\\",\\\"ai.operation.id\\\":\\\"5bbb414e768346bd83cdc13ee7a987fa\\\",\\\"ai.internal.sdkVersion\\\":\\\"javascript:2.6.5\\\"},\\\"data\\\":{\\\"baseType\\\":\\\"RemoteDependencyData\\\",\\\"baseData\\\":{\\\"id\\\":\\\"|5bbb414e768346bd83cdc13ee7a987fa.2404d779e40b4605.\\\",\\\"ver\\\":2,\\\"name\\\":\\\"POST https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-28581351-1&cid=448695156.1706721513&jid=1517793005&gjid=1733475805&_gid=1048870679.1706721514&_u=SACAAEABAAAAACAAI~&z=595522620\\\",\\\"resultCode\\\":\\\"200\\\",\\\"duration\\\":\\\"00:00:00.049\\\",\\\"success\\\":true,\\\"data\\\":\\\"POST https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-28581351-1&cid=448695156.1706721513&jid=1517793005&gjid=1733475805&_gid=1048870679.1706721514&_u=SACAAEABAAAAACAAI~&z=595522620\\\",\\\"target\\\":\\\"stats.g.doubleclick.net\\\",\\\"type\\\":\\\"Ajax\\\",\\\"properties\\\":{\\\"HttpMethod\\\":\\\"POST\\\"},\\\"measurements\\\":{}}}}\"]",
+      "type": "session_storage_item",
+      "domain": ".bxdms.blackstone.com",
+      "cookie_classification_type": "First Party"
+    }
+  ],
+  "cookies": [
+    {
+      "domain": "bxdms.blackstone.com",
+      "expirationDate": 1738151889.41818,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "ai_user",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "WcI22XbiiXF1Gw0VIekBNO|2024-01-29T19:18:09.422Z",
+      "expires": 1738151889.41818,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxdms.blackstone.com",
+      "expirationDate": 1714409747,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "BXID",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "d9094404-7194-4349-8f26-7e8023cc0a75",
+      "expires": 1714409747,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxdms.blackstone.com",
+      "expirationDate": 1722204504,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "_bxreit_n",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1722204504,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxdms.blackstone.com",
+      "expirationDate": 1722204504,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consent_uuid",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "45224a6e-e352-40db-b459-1c7f0a1ca754:18",
+      "expires": 1722204504,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxdms.blackstone.com",
+      "expirationDate": 1722204504,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consent_generated",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "45224a6e-e352-40db-b459-1c7f0a1ca754:18",
+      "expires": 1722204504,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxdms.blackstone.com",
+      "expirationDate": 1722204504,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_cookie_consents",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "{\"consents\":{\"109\":1,\"110\":1,\"112\":1},\"location\":\"FL#US\",\"lang\":\"en\",\"gpcInBrowserOnConsent\":false,\"gpcStatusInPortalOnConsent\":false,\"status\":\"record-consent-success\",\"implicit_consent\":false}",
+      "expires": 1722204504,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com.png",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxdms.blackstone.com",
+      "expirationDate": 1722204504,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "__privaci_latest_published_version",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "1",
+      "expires": 1722204504,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": "bxdms.blackstone.com",
+      "expirationDate": 1706668154.082221,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "ai_session",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "Uown3zXalJOhnTpISOoijZ|1706566347217|1706566354082",
+      "expires": 1706668154.082221,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "First Party"
+    },
+    {
+      "domain": ".blackstone.com",
+      "expirationDate": 1706720147,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gid",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.1960451945.1706564004",
+      "expires": 1706720147,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    },
+    {
+      "domain": ".blackstone.com",
+      "expirationDate": 1741126354.549867,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_ga_*",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GS1.1.1706566342.1.1.1706566354.0.0.0",
+      "expires": 1741126354.549867,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    },
+    {
+      "domain": ".blackstone.com",
+      "expirationDate": 1706720147,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_gat_UA-*",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "1",
+      "value": "1",
+      "expires": 1706720147,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    },
+    {
+      "domain": ".blackstone.com",
+      "expirationDate": 1741126355.065009,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "_ga",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "GA1.2.1947581540.1706564004",
+      "expires": 1741126355.065009,
+      "type": "http_cookie",
+      "initiator": {
+        "url": "https://bxdms.blackstone.com",
+        "type": "network",
+        "stack": [
+          "https://bxdms.blackstone.com:0:0"
+        ]
+      },
+      "cookie_classification_type": "Third Party"
+    }
+  ],
+  "scanStartTime": 1706566428243,
+  "scanEndTime": 1706566443468
+}
